@@ -1,4 +1,4 @@
-# ML_challenge_RF
+# Machine Learning Challenge - Random Forest
 Random forest algorithm pipeline produced to participate to data challenge from ENS : https://challengedata.ens.fr/challenges/34 as part of the Machine Learning course project.
 
 We also tried different NN and regressions to solve the problem and compare the results as part of the project. I only publish the random forest one which I produced on my own.
